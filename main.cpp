@@ -25,9 +25,9 @@ int main() {
   
   //Statistics
   cout << "Amount of work timers: "<< workCount << right <<
-    setw(30) << "Amount of break timers: " << breakCount << "Min." << endl;
+    setw(30) << "Amount of break timers: " << breakCount << " Min." << endl;
   cout << "Total minutes worked: "<< workCalculator << right <<
-    setw(28) << "Total break minutes: " << breakCalculator << "Min." << endl;
+    setw(28) << "Total break minutes: " << breakCalculator << " Min." << endl;
   
   cout << 
     "========================================================"
